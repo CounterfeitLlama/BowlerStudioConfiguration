@@ -6,5 +6,15 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
+  },
+  "studio-open-git": {
+    "https://gist.github.com/692458b14be43fad98b62ccef72e9711.git:lego.groovy": [
+      "https://gist.github.com/692458b14be43fad98b62ccef72e9711.git",
+      "lego.groovy"
+    ],
+    "https://gist.github.com/dd125ee34070d2d58e82af7e3b910640.git:cube.groovy": [
+      "https://gist.github.com/dd125ee34070d2d58e82af7e3b910640.git",
+      "cube.groovy"
+    ]
   }
 }
