@@ -12,9 +12,19 @@
       "https://gist.github.com/692458b14be43fad98b62ccef72e9711.git",
       "lego.groovy"
     ],
+    "https://gist.github.com/909805d5dd4f2c2b788004af9c96677d.git:flatAssembly.groovy": [
+      "https://gist.github.com/909805d5dd4f2c2b788004af9c96677d.git",
+      "flatAssembly.groovy"
+    ],
     "https://gist.github.com/dd125ee34070d2d58e82af7e3b910640.git:cube.groovy": [
       "https://gist.github.com/dd125ee34070d2d58e82af7e3b910640.git",
       "cube.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.19.3",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.19.3"
   }
 }
