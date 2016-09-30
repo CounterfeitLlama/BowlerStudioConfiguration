@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/692458b14be43fad98b62ccef72e9711.git:lego.groovy": [
-      "https://gist.github.com/692458b14be43fad98b62ccef72e9711.git",
-      "lego.groovy"
+    "https://github.com/CounterfeitLlama/Physical-Computing.git:USSEnterprise.groovy": [
+      "https://github.com/CounterfeitLlama/Physical-Computing.git",
+      "USSEnterprise.groovy"
     ]
   },
   "BowlerStudioConfigs": {
