@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/CounterfeitLlama/Physical-Computing.git:USSEnterprise.groovy": [
+    "https://github.com/CounterfeitLlama/Physical-Computing.git:VitaminsExample.groovy": [
       "https://github.com/CounterfeitLlama/Physical-Computing.git",
-      "USSEnterprise.groovy"
+      "VitaminsExample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
