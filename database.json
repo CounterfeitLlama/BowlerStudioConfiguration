@@ -15,6 +15,10 @@
     "https://github.com/CounterfeitLlama/VexVitaminScripts.git:scripts/Gear.groovy": [
       "https://github.com/CounterfeitLlama/VexVitaminScripts.git",
       "scripts/Gear.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
