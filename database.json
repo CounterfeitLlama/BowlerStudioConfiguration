@@ -8,17 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/CounterfeitLlama/Hardware-Dimensions.git:json/vexGear.json": [
-      "https://github.com/CounterfeitLlama/Hardware-Dimensions.git",
-      "json/vexGear.json"
-    ],
-    "https://github.com/CounterfeitLlama/VexVitaminScripts.git:scripts/Gear.groovy": [
-      "https://github.com/CounterfeitLlama/VexVitaminScripts.git",
-      "scripts/Gear.groovy"
-    ],
     ":": [
       "",
       ""
+    ],
+    "https://gist.github.com/9f6b6cde9269fa4a7058e42ba62d5ab7.git:ArduinoDyIO.groovy": [
+      "https://gist.github.com/9f6b6cde9269fa4a7058e42ba62d5ab7.git",
+      "ArduinoDyIO.groovy"
     ]
   },
   "BowlerStudioConfigs": {
