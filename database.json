@@ -23,6 +23,10 @@
     "https://github.com/CounterfeitLlama/VexVitaminScripts.git:scripts/Gear.groovy": [
       "https://github.com/CounterfeitLlama/VexVitaminScripts.git",
       "scripts/Gear.groovy"
+    ],
+    "https://gist.github.com/d614c4ac83201023d884ca032a9dbc1a.git:KSP.groovy": [
+      "https://gist.github.com/d614c4ac83201023d884ca032a9dbc1a.git",
+      "KSP.groovy"
     ]
   },
   "BowlerStudioConfigs": {
