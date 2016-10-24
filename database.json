@@ -12,21 +12,17 @@
       "https://github.com/CounterfeitLlama/Physical-Computing.git",
       "iPadStand.groovy"
     ],
-    "https://github.com/CounterfeitLlama/Hardware-Dimensions.git:json/vexGear.json": [
-      "https://github.com/CounterfeitLlama/Hardware-Dimensions.git",
-      "json/vexGear.json"
+    "https://github.com/CounterfeitLlama/laser-cut-robot.git:LaserCutDog.xml": [
+      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
+      "LaserCutDog.xml"
     ],
     ":": [
       "",
       ""
     ],
-    "https://github.com/CounterfeitLlama/VexVitaminScripts.git:scripts/Gear.groovy": [
-      "https://github.com/CounterfeitLlama/VexVitaminScripts.git",
-      "scripts/Gear.groovy"
-    ],
-    "https://gist.github.com/d614c4ac83201023d884ca032a9dbc1a.git:KSP.groovy": [
-      "https://gist.github.com/d614c4ac83201023d884ca032a9dbc1a.git",
-      "KSP.groovy"
+    "https://github.com/CounterfeitLlama/laser-cut-robot.git:laserCutCad.groovy": [
+      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
+      "laserCutCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
