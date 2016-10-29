@@ -8,10 +8,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/CounterfeitLlama/Physical-Computing.git:iPadStand.groovy": [
-      "https://github.com/CounterfeitLlama/Physical-Computing.git",
-      "iPadStand.groovy"
-    ],
     "https://github.com/CounterfeitLlama/laser-cut-robot.git:LaserCutDog.xml": [
       "https://github.com/CounterfeitLlama/laser-cut-robot.git",
       "LaserCutDog.xml"
@@ -19,10 +15,6 @@
     ":": [
       "",
       ""
-    ],
-    "https://github.com/CounterfeitLlama/laser-cut-robot.git:laserCutCad.groovy": [
-      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
-      "laserCutCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
