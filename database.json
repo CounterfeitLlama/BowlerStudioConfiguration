@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/08ee2bd1690310c427b2c0fcdff3d985.git:Leg.groovy": [
+      "https://gist.github.com/08ee2bd1690310c427b2c0fcdff3d985.git",
+      "Leg.groovy"
+    ],
     "https://github.com/CounterfeitLlama/laser-cut-robot.git:LaserCutDog.xml": [
       "https://github.com/CounterfeitLlama/laser-cut-robot.git",
       "LaserCutDog.xml"
@@ -15,6 +19,14 @@
     ":": [
       "",
       ""
+    ],
+    "https://github.com/CounterfeitLlama/laser-cut-robot.git:feetCad.groovy": [
+      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
+      "feetCad.groovy"
+    ],
+    "https://github.com/CounterfeitLlama/laser-cut-robot.git:laserCutCad.groovy": [
+      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
+      "laserCutCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
