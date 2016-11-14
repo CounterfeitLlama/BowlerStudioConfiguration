@@ -32,7 +32,7 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "skinBranch": "master",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "skinRepo": "https://github.com/CounterfeitLlama/BowlerStudioImageAssets.git",
     "currentVersion": "0.19.4",
     "notifiedArduinoDep": true
   }
