@@ -20,9 +20,9 @@
       "https://github.com/CounterfeitLlama/laser-cut-robot.git",
       "feetCad.groovy"
     ],
-    "https://github.com/CounterfeitLlama/laser-cut-robot.git:neckCad.groovy": [
+    "https://github.com/CounterfeitLlama/laser-cut-robot.git:link.groovy": [
       "https://github.com/CounterfeitLlama/laser-cut-robot.git",
-      "neckCad.groovy"
+      "link.groovy"
     ],
     "https://github.com/CounterfeitLlama/laser-cut-robot.git:laserCutCad.groovy": [
       "https://github.com/CounterfeitLlama/laser-cut-robot.git",
@@ -33,7 +33,7 @@
     "firstVersion": "0.19.3",
     "skinBranch": "master",
     "skinRepo": "https://github.com/CounterfeitLlama/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.6",
+    "currentVersion": "0.19.4",
     "notifiedArduinoDep": true
   }
 }
