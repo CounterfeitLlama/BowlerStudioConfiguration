@@ -8,13 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git:LaserCutDog.xml": [
+      "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git",
+      "LaserCutDog.xml"
+    ],
     ":": [
       "",
       ""
-    ],
-    "https://github.com/CounterfeitLlama/laser-cut-robot.git:link.groovy": [
-      "https://github.com/CounterfeitLlama/laser-cut-robot.git",
-      "link.groovy"
     ]
   },
   "BowlerStudioConfigs": {
