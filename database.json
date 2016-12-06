@@ -24,6 +24,10 @@
       "https://github.com/CounterfeitLlama/andrew-robot.git",
       "link.groovy"
     ],
+    "https://github.com/CounterfeitLlama/andrew-robot.git:feetCad.groovy": [
+      "https://github.com/CounterfeitLlama/andrew-robot.git",
+      "feetCad.groovy"
+    ],
     "https://github.com/CounterfeitLlama/andrew-robot.git:LaserCutDog.xml": [
       "https://github.com/CounterfeitLlama/andrew-robot.git",
       "LaserCutDog.xml"
@@ -31,13 +35,17 @@
     ":": [
       "",
       ""
+    ],
+    "https://gist.github.com/bf21c1790d547ed3e1dcfb4290b64dc2.git:ExtrudeBezierAPI.groovy": [
+      "https://gist.github.com/bf21c1790d547ed3e1dcfb4290b64dc2.git",
+      "ExtrudeBezierAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "skinBranch": "master",
     "skinRepo": "https://github.com/CounterfeitLlama/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.6",
+    "currentVersion": "0.20.0",
     "notifiedArduinoDep": true
   }
 }
