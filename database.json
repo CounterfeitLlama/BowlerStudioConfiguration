@@ -16,10 +16,6 @@
       "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git",
       "LaserCutDog.xml"
     ],
-    "https://gist.github.com/9ea6bec777f340889f05684718317cd7.git:CoilSpring.groovy": [
-      "https://gist.github.com/9ea6bec777f340889f05684718317cd7.git",
-      "CoilSpring.groovy"
-    ],
     "https://github.com/CounterfeitLlama/andrew-robot.git:link.groovy": [
       "https://github.com/CounterfeitLlama/andrew-robot.git",
       "link.groovy"
@@ -39,10 +35,6 @@
     ":": [
       "",
       ""
-    ],
-    "https://gist.github.com/bf21c1790d547ed3e1dcfb4290b64dc2.git:ExtrudeBezierAPI.groovy": [
-      "https://gist.github.com/bf21c1790d547ed3e1dcfb4290b64dc2.git",
-      "ExtrudeBezierAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
