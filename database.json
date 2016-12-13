@@ -8,33 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/CounterfeitLlama/andrew-robot.git:laserCutCad.groovy": [
-      "https://github.com/CounterfeitLlama/andrew-robot.git",
-      "laserCutCad.groovy"
-    ],
     "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git:LaserCutDog.xml": [
       "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git",
       "LaserCutDog.xml"
-    ],
-    "https://github.com/CounterfeitLlama/andrew-robot.git:link.groovy": [
-      "https://github.com/CounterfeitLlama/andrew-robot.git",
-      "link.groovy"
-    ],
-    "https://github.com/CounterfeitLlama/andrew-robot.git:feetCad.groovy": [
-      "https://github.com/CounterfeitLlama/andrew-robot.git",
-      "feetCad.groovy"
-    ],
-    "https://gist.github.com/490f7de156f15699da58e629ee556db9.git:GrabbyHand.groovy": [
-      "https://gist.github.com/490f7de156f15699da58e629ee556db9.git",
-      "GrabbyHand.groovy"
-    ],
-    "https://github.com/CounterfeitLlama/andrew-robot.git:LaserCutDog.xml": [
-      "https://github.com/CounterfeitLlama/andrew-robot.git",
-      "LaserCutDog.xml"
-    ],
-    ":": [
-      "",
-      ""
     ]
   },
   "BowlerStudioConfigs": {
