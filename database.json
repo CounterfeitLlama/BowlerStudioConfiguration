@@ -11,6 +11,10 @@
     "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git:LaserCutDog.xml": [
       "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git",
       "LaserCutDog.xml"
+    ],
+    "https://gist.github.com/6132c3934f52c60758766ff8b909f208.git:ExampleOpenCV.groovy": [
+      "https://gist.github.com/6132c3934f52c60758766ff8b909f208.git",
+      "ExampleOpenCV.groovy"
     ]
   },
   "BowlerStudioConfigs": {
