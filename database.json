@@ -8,10 +8,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git:LaserCutDog.xml": [
-      "https://github.com/CounterfeitLlama/L.A.Z.E.R.-Sliced-Machine.git",
-      "LaserCutDog.xml"
-    ],
     "https://gist.github.com/6132c3934f52c60758766ff8b909f208.git:ExampleOpenCV.groovy": [
       "https://gist.github.com/6132c3934f52c60758766ff8b909f208.git",
       "ExampleOpenCV.groovy"
@@ -19,9 +15,9 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
-    "skinBranch": "master",
+    "skinBranch": "0.20.3",
     "skinRepo": "https://github.com/CounterfeitLlama/BowlerStudioImageAssets.git",
-    "currentVersion": "0.20.0",
+    "currentVersion": "0.20.3",
     "notifiedArduinoDep": true
   }
 }
