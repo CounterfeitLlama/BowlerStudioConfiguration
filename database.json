@@ -12,6 +12,10 @@
       "https://github.com/madhephaestus/laser-cut-robot.git",
       "feetCad.groovy"
     ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/feetCad.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/feetCad.groovy"
+    ],
     "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "FullDog/Dog.xml"
@@ -19,6 +23,18 @@
     "https://github.com/madhephaestus/laser-cut-robot.git:laserCutCad.groovy": [
       "https://github.com/madhephaestus/laser-cut-robot.git",
       "laserCutCad.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:Head/headCad.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "Head/headCad.groovy"
+    ],
+    ":": [
+      "",
+      ""
+    ],
+    "https://gist.github.com/7b6fc22252ac8bf25de9698edb27178c.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/7b6fc22252ac8bf25de9698edb27178c.git",
+      "ModifiedAnimatronics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
