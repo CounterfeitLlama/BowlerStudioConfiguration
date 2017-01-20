@@ -11,6 +11,10 @@
     "https://github.com/DotSlash-CTF/Bulldog.git:Arduino/ServoCode.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Arduino/ServoCode.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "FullDog/Dog.xml"
     ]
   },
   "BowlerStudioConfigs": {
