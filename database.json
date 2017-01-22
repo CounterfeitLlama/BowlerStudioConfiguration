@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/DotSlash-CTF/Bulldog.git:Arduino/ServoCode.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Arduino/ServoCode.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "FullDog/Dog.xml"
+    "https://gist.github.com/ea5fc6844875404f7a85f968058599bf.git:camera.groovy": [
+      "https://gist.github.com/ea5fc6844875404f7a85f968058599bf.git",
+      "camera.groovy"
     ]
   },
   "BowlerStudioConfigs": {
