@@ -19,10 +19,6 @@
     "https://github.com/CounterfeitLlama/RSI.git:Main.groovy": [
       "https://github.com/CounterfeitLlama/RSI.git",
       "Main.groovy"
-    ],
-    "https://gist.github.com/242d81c538848ab5cdb5b62cc1d706b7.git:LoadSTL.groovy": [
-      "https://gist.github.com/242d81c538848ab5cdb5b62cc1d706b7.git",
-      "LoadSTL.groovy"
     ]
   },
   "BowlerStudioConfigs": {
