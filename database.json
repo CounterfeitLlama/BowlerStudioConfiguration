@@ -11,10 +11,6 @@
     "https://github.com/DotSlash-CTF/Bulldog.git:Head/ParametricAnimatronics.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Head/ParametricAnimatronics.groovy"
-    ],
-    "https://github.com/CounterfeitLlama/RSI.git:Main.groovy": [
-      "https://github.com/CounterfeitLlama/RSI.git",
-      "Main.groovy"
     ]
   },
   "BowlerStudioConfigs": {
