@@ -14,7 +14,20 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/DotSlash-CTF/Bulldog.git:Body/NeckCad.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "Body/NeckCad.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:Head/HeadGeneration.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "Head/HeadGeneration.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/LegMethods.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/LegMethods.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "skinBranch": "0.20.9",
