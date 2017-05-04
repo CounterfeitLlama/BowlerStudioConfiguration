@@ -23,6 +23,10 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Head/HeadGeneration.groovy"
     ],
+    ":": [
+      "",
+      ""
+    ],
     "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/LegMethods.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "LegLinks/LegMethods.groovy"
