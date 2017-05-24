@@ -32,10 +32,10 @@
     "notifiedArduinoDep": true
   },
   "Controller (XBOX 360 For Windows)": {
-    "jogKinz": "rz",
+    "jogKinz": "Y Rotation",
     "jogLink": "x",
-    "jogKinslider": "slider",
+    "jogKinslider": "X Axis",
     "jogKiny": "y",
-    "jogKinx": "x"
+    "jogKinx": "Y Axis"
   }
 }
