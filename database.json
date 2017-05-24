@@ -30,5 +30,12 @@
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3",
     "notifiedArduinoDep": true
+  },
+  "Controller (XBOX 360 For Windows)": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
   }
 }
