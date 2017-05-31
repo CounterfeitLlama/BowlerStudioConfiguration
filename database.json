@@ -19,6 +19,10 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "walkingGait.groovy"
     ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/feetCad.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/feetCad.groovy"
+    ],
     "https://github.com/DotSlash-CTF/Bulldog.git:Head/HeadGeneration.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Head/HeadGeneration.groovy"
